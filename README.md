@@ -37,4 +37,9 @@ Python 3 (with smtplib, serial, etc.)
 Proteus Design Suite
 Compins tool for Arduino-Python communication
 
+simulation below...
+
+https://1drv.ms/i/c/55d3fdb6cd3af785/Edd1Poo1cFdNgCkLVtWlYTIBky2Th3hwjnsytqsabWXERg?e=njX9CY
+
+https://1drv.ms/v/c/55d3fdb6cd3af785/EY7n3pg-vutAioPd82k_boYB_Fm5fGl5QDnlWhfvy7so7w?e=IWoznw
 
